@@ -1,10 +1,10 @@
 const help = (prefix) => {
 	return `
-「 *BOT_RIZKI* 」
+「 *BOT_FATHUR* 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: OWNER_IQBAL
+  ❏ Creator: OWNER_FATHUR
   ◪ *Github*https://github.com// Github lo
   
 ◪ *ABOUT*
